@@ -1,3 +1,5 @@
+import os
+
 os.system("pip install -r requirements.txt")
 os.system("npm i net")
 os.system("npm i http2")
@@ -9,4 +11,4 @@ os.system("npm i crypto")
 os.system("npm i fs")
 os.system("npm i cloudscraper")
 os.system("npm i randomstring")
-os.syste("python p.py")
+os.system("python p.py")
